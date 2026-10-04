@@ -113,6 +113,4 @@ This project was created to understand the basics of **Streamlit**, including cr
 
 Student | Python | Machine Learning | Deep Learning
 
----
 
-⭐ If you found this project useful, consider giving the repository a star!
